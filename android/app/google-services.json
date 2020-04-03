@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "730431859085",
+    "firebase_url": "https://jobs-seekers-67c7e.firebaseio.com",
+    "project_id": "jobs-seekers-67c7e",
+    "storage_bucket": "jobs-seekers-67c7e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:730431859085:android:8bc21225c49db14e7735c4",
+        "android_client_info": {
+          "package_name": "inptech.jobsseekers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "730431859085-lsfol2kta0vaf7qd1nv0mljh5fnts0gp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5krRgu5lJljV6U-K9Uj2aViCccSxS7UI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "730431859085-lsfol2kta0vaf7qd1nv0mljh5fnts0gp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
